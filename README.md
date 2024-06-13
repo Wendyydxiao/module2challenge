@@ -61,4 +61,4 @@ Give credit here.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Wendy Xiao (github: https://github.com/Wendyydxiao) - feel free to contact me!
