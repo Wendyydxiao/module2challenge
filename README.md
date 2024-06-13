@@ -1,4 +1,4 @@
-# Project Name
+# Wendy's Portfolio Page
 > The goal of the project is to build a portfolio page for myself to provide a self introduction, showcase recent works and point users to contact me through varies ways.
 > Live demo: Link to be provided
 
