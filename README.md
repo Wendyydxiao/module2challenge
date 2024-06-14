@@ -1,7 +1,7 @@
 # Wendy's Portfolio Page
 - The goal of the project is to build a self portfolio page to provide an introduction of myself, recent works and point users to contact me through varies ways. This is the 2nd module challenge for the bootcamp student to demonstrate the advanced CSS knowledge.
 - This page is a static HTML page with CSS styling only
-- Page Screenshot:
+- Live page:https://wendyydxiao.github.io/module2challenge/
 
 
 
@@ -45,7 +45,7 @@ AS AN employer <br><br>
 - Form
 
 ## Project Status
-Project is: In Progress till 16Jun'24
+Project is compelted
 
 
 ## Acknowledgements
