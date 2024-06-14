@@ -335,6 +335,10 @@ input[type=submit]:hover {
 
 @media screen and (max-width: 992px){
 
+  .home p{
+    font-size:0.9rem;
+    text-align:center
+  }
   .profile-pic {
     display:block;
     margin:0 auto}
@@ -349,11 +353,12 @@ input[type=submit]:hover {
 @media screen and (max-width: 768px){
   nav ul{
     display:none}
+  .home{height:80vh}
   .home p{
     font-size:0.7rem;
     text-align:center
   }
-  .home h1{font-size:2.18rem}
+  .home h1{font-size:3rem}
   .about p {font-size:1.2rem}
   .profile-pic {
     display:block;
@@ -371,9 +376,10 @@ input[type=submit]:hover {
 
 @media screen and (max-width: 575px){
     nav ul{display:none}
+    .home{height:80vh}
     .home p{
       font-size:0.7rem;
-      text-align:center
+      text-align:center;
     }
     .home h1{font-size:2.18rem}
     .work{height:auto}
