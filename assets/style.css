@@ -248,9 +248,10 @@ a, a:visited {
 }
 
 .column img {
-  width:95%;
+  width:80%;
   padding:0px;
-  border-radius: 20%;
+  border-radius:20%;
+
 }
 
 input[type=text], select, textarea {
