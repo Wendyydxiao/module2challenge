@@ -19,23 +19,24 @@ img {
 }
     
 body {
-  width:100%}
+  width:100%
+}
 
 
 h1 {
-    font-size:1.8rem;
-    margin-bottom:.6rem;
-    color:#162432;
-    margin-top:20px
-  }
+  font-size:1.8rem;
+  margin-bottom:.6rem;
+  color:#162432;
+  margin-top:20px
+}
   
 aside {
-    margin-bottom:1.5rem;
-    width:9.3rem;
-    height:5px;
-    border-radius:5px;
-    background-color:#162432
-  }
+  margin-bottom:1.5rem;
+  width:9.3rem;
+  height:5px;
+  border-radius:5px;
+  background-color:#162432
+}
 
 nav {
   width:100%;
@@ -49,7 +50,9 @@ nav {
   backdrop-filter:blur(20px)
 }
     
-strong {font-size:1.6rem}
+strong {
+  font-size:1.6rem
+}
 
 nav ul {
   display:flex;
@@ -321,7 +324,6 @@ input[type=submit]:hover {
   height:100px;
 }
 
-
 @media screen and (min-width: 993px){
 
   .column img {
@@ -331,7 +333,6 @@ input[type=submit]:hover {
   
   }
 }
-
 
 @media screen and (max-width: 992px){
 
@@ -343,58 +344,90 @@ input[type=submit]:hover {
     display:block;
     margin:0 auto}
 
-    .column img {
-      margin-left:60px;
-      margin-bottom: 40px;
-      max-width: 530px;
-    }
+  .column img {
+    margin-left:60px;
+    margin-bottom: 40px;
+    max-width: 530px;
+  }
 }
 
 @media screen and (max-width: 768px){
   nav ul{
-    display:none}
-  .home{height:80vh}
+    display:none
+  }
+  .home{
+    height:80vh
+  }
   .home p{
     font-size:0.7rem;
     text-align:center
   }
-  .home h1{font-size:3rem}
-  .about p {font-size:1.2rem}
+  .home h1{
+    font-size:3rem
+  }
+  .about p {
+    font-size:1.2rem
+  }
   .profile-pic {
     display:block;
-    margin:0 auto}
-  .work{height:auto}
-  .work div{flex-direction:column}
-  .work article{padding:10px}
+    margin:0 auto
+  }
+  .work{
+    height:auto
+  }
+  .work div{
+    flex-direction:column
+  }
+  .work article{
+    padding:10px
+  }
   .work article>img{
     width:100%;
     height:18.75rem
   }
-  .contactme {height:auto}
+  .contactme {
+    height:auto
+  }
   
 }
 
 @media screen and (max-width: 575px){
-    nav ul{display:none}
-    .home{height:80vh}
-    .home p{
-      font-size:0.7rem;
-      text-align:center;
+  nav ul{
+    display:none
+  }
+  .home{
+    height:80vh
+  }
+  .home p{
+    font-size:0.7rem;
+    text-align:center;
     }
-    .home h1{font-size:2.18rem}
-    .work{height:auto}
-    .work div{flex-direction:column}
-    .work article{padding:10px}
-    .work article>img{
-      width:100%;
-      height:18.75rem}
-    .contactme {height:auto}
-    .column img { display: block;
-      margin: 0 auto;}
-    .column, input[type=submit] {
-      width: 100%;
-      margin-top: 0;
-    }
+  .home h1{
+    font-size:2.18rem
+  }
+  .work{
+    height:auto
+  }
+  .work div{
+    flex-direction:column
+  }
+  .work article{
+    padding:10px
+  }
+  .work article>img{
+    width:100%;
+    height:18.75rem
+  }
+  .contactme {
+    height:auto
+  }
+  .column img {
+    display: block;
+    margin: 0 auto;
+  }
+  .column, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
 
-   
 }
